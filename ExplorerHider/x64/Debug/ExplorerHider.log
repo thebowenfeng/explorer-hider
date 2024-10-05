@@ -1,9 +1,0 @@
-﻿  pch.cpp
-  dllmain.cpp
-C:\Users\85751\source\repos\ExplorerHider\ExplorerHider\dllmain.cpp(289,20): warning C4018: '<': signed/unsigned mismatch
-  (compiling source file '/dllmain.cpp')
-  
-C:\Users\85751\source\repos\ExplorerHider\ExplorerHider\dllmain.cpp(420,14): warning C4326: return type of 'main' should be 'int' instead of 'DWORD'
-  (compiling source file '/dllmain.cpp')
-  
-  ExplorerHider.vcxproj -> C:\Users\85751\source\repos\ExplorerHider\x64\Debug\ExplorerHider.dll
